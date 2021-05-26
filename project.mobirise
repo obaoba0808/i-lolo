@@ -56,15 +56,17 @@
     "versionPublish": "5.3.5",
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "ssmjtjjnhv",
-    "robotsSwitcher": false,
+    "mbrsiteDomain": "00l3tvzb5r",
+    "robotsSwitcher": true,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
+    "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "cookiesAlert": false,
     "canonical-url": "https://ilohas.tk",
     "publishChangesOnly": true,
-    "gdpr": false
+    "gdpr": false,
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-S9B9HTBC7F\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-S9B9HTBC7F');\n</script>",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
     "index.html": {
