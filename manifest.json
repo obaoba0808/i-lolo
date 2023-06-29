@@ -1,0 +1,16 @@
+{
+  "short_name": "舒壓會館|愛樂樂",
+  "name": "舒壓會館|愛樂樂",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "https://ilohas.ga",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "theme_color": "#3367D6"
+}
