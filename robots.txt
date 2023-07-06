@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ilohas.ga/sitemap.xml
+Sitemap: https://ilohas.site/sitemap.xml
